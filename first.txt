@@ -1,2 +1,2 @@
-my first doc
+It first doc
 second
